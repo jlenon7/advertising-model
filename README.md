@@ -14,3 +14,25 @@
 The model needs more training to be more precise:
 
 <img src="resources/predictions.png" width="500px">
+<img src="resources/mae-mse-rmse.png" width="500px">
+
+## Running
+
+To run the model first create a new Python environment and activate it. I'm using [Anaconda](https://www.anaconda.com/) for that:
+
+```shell
+conda create -n advertising_env python=3.11
+conda activate advertising_env
+```
+
+Now install all the project dependencies:
+
+```shell
+make install-all
+```
+
+And run the model:
+
+```shell
+make model
+```
