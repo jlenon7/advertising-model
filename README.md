@@ -1,6 +1,6 @@
 # Advertising Model 🤖
 
-> Model that predict how many sales has been made according to the number of advertisements in each channel.
+> Model that predicts how many sales has been made according to the number of advertisements in each channel.
 
 [![GitHub followers](https://img.shields.io/github/followers/jlenon7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jlenon7?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/jlenon7/advertising-model.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jlenon7/advertising-model/stargazers/)
@@ -13,4 +13,4 @@
 
 The model needs more training to be more precise:
 
-<img src="resources/predictions.png">
+<img src="resources/predictions.png" width="500px">
