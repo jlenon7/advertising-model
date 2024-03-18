@@ -13,4 +13,4 @@
 
 The model needs more training to be more precise:
 
-<img src="resources/predictions.svg" width="300px">
+<img src="resources/predictions.png" width="300px">
